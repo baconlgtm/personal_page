@@ -1,0 +1,85 @@
+PEIGEN LUO
+•612-417-5020•peigenwork@gmail.com•www.linkedin.com/in/peigen-luo
+PROFESSIONAL SUMMARY
+Software Engineer with 3+ years of experience at Google Fi specializing in complex data pipelines (Flume, Spark, SQL),
+backend systems (C++, Java, Go), and cloud infrastructure (AWS, Kubernetes). Proven ability to enhance system stability,
+optimize data processing, and improve deployment efficiency.
+SKILLS
+Tools and Frameworks: Apache Spark, Flume, Kubernetes, AWS, Plx, ProtoBuffer, Git, Linux, UML, OpenCV
+Programming Languages: C++, SQL, Python, Java, C, C#, Go
+WORK EXPERIENCE
+Google Fi Mountain View, CA
+Software Engineer Feb 2022 - Present
+•Developed and maintained core data infrastructure using Flume, Plx and C++ to support key business growth initiatives;
+enabled tracking and analysis of critical KPIs (e.g., Signup, Activation, Retention) via dashboards and experimentation
+platforms
+•Improved data pipeline stability and reliability by identifying and resolving over 200 critical bugs, leading to a 50%
+reduction in pipeline failures through systematic debugging and monitoring enhancements
+•Significantly enhanced metrics development workflow and compliance by engineering automated data retention (achieving
+100% compliance) and DMA regulation pipelines, leveraging deep understanding of Flume, Borg, and Plx
+•Proactively drove data engineering projects in collaboration with Data Science, PM, and Privacy teams to define require-
+ments, design data flows (e.g., Growth Metrics end-to-end), and ensure secure, standardized data access
+•Architected and implemented a scalable, environment-based deployment workflow using Plx, increasing developer testing
+efficiency by 80% and reducing deployment rollbacks by 30%
+•Developed and scaled a complex Activation Metrics pipeline using Flume and internal Experimentation tools, processing
+TBs of data daily to improve analysis turnaround time by 50%
+Cognistx Pittsburgh, PA
+Software Engineer Intern May 2021 - Aug 2021
+•Created a concurrent logging module writing log information into AWS CloudWatch logs dynamically based on configured
+frequency and batch size used by engineers inside the company
+•Designed and implemented a distributed web crawler using AWS SQS, MongoDB, and AWS S3 to automate data collection
+pipeline improving processing efficiency by 80%
+Interactive Robotics and Vision Lab Minneapolis, MN
+Research Assistant Sep 2018 - May 2020
+•Modified LaneNet to detect traffic lines and applied interpolation on lanes to construct a removed-lane-road dataset for
+SafeDrive Image Enhancement
+•Summarized and compared the benchmark scores of nine models, concluded that the Deep Simultaneous Enhancement and
+Super-Resolution model is better than others
+•Designed a model to understand correlation between different categories using statistical data for SUIM dataset
+•Calculated statistical data for SUIM dataset like Pearson product-moment correlation coefficients to understand correlation
+between different categories
+•Contributed to first large-scale Simultaneous Enhancement and Super-Resolution(SESR) dataset
+EDUCATION
+Carnegie Mellon University Pittsburgh, PA
+Master of Science in Electrical and Computer Engineering Dec 2021
+Curriculum: Advanced Cloud Computing, Principles of Software System Construction, Reliable Distributed Systems
+University of Illinois, Urbana-Champaign Urbana-Champaign, IL
+Courses taken towards Master of Computer Science Sep 2020 - Dec 2020
+University of Minnesota Twin Cities Minneapolis, MN
+Bachelor of Science in Computer Science May 2020
+Curriculum: Data Structure and Algorithms, Advanced Programming Principles, Intro to Operating Systems
+B.S in Communication Engineering, UESTC, China, GPA: 3.7/4.0 2015-2017
+CLASS PROJECTS
+Spark-boosted Data Processing (Apache Spark, AWS) - CMU Spring 2021
+•Processed large corpus of crawling web data by distributed programs through a process known as extract, load, transform
+(ELT), utilizing Apache Spark python API running with AWS EC2 instances
+•Optimized performance from 8.5GB of data in 100 mins to 59.5GB of data in 80 mins, both using 8 machines, and would be
+used to train a Machine learning model with Spark in later stage
+Kubernetes Job Scheduling (Kubernetes, Go) - CMU Spring 2021
+•Implemented K8s scheduling extenders using Kube-batch with FIFO-random, FIFO-Heterogeneous, as well as SJF - Hetero-
+geneous scheduling policies for simulated job traces with multi-task
+•Optimized the scheduling process by 50% by using a utility function which measures the goodness of scheduling decisions
+Extensible Java Data Framework (Java, UML design) - CMU Spring 2021
+•Designed an extensible Java framework for customizable Data Plugins and Display Plugins with consistent data workflow
+and prediction functions with given data. Employed Observer pattern to complete the GUI to core communication
+Stock Trade Application (React, MongoDB, MySQL) - UIUC Fall 2020
+•Developed an online stock market simulation application for customers to trade stock with both front-end GUI and back-end
+database. Connected a front-end CPanel website with a back-end server and communicated data from MySQL databases to
+a React application
+•Led group of 4, proposing a shared vision in developing process, assigning tasks to group mates based on knowledge and
+interest of every member, getting a full score in the final demo
+Assembler Interpreter (Java, UML design) - CMU
+•Implemented a simple assembly language with Stack, Heap and 32-bit Registers using Polymorphis supporting 25 instructions
+including stack operations and IOs.
+•Designed to be easily extensible by making use of enums.
+Turtlebot GoalKeeper (ROS, Python) - UMN Spring 2020
+•Participated in a GoalKeeper Turtlebot development with a team of 4 with a ball detection rate of about 98% and reaction
+time less than 0.5 seconds. Implemented tracking-based trajectory transformations between the ball and the Turtlebot
+SPH Fluid Simulation (OpenGL, C++) - UMN
+•Simulated water with viscosity, elasticity, plasticity and pressure by utilizing Smoothed-particle hydrodynamics (SPH).
+Optimized spatial complexity with KD-Tree
+PUBLICATIONS
+•Simultaneous Enhancement and Super-Resolution of Underwater Imagery for Improved Visual Perception
+Second Author Robotics: Science and Systems (RSS) Accepted 2020
+•Underwater Image Super-Resolution using Deep Residual Multipliers Third Author ICRA Accepted 2019
+•Semantic Segmentation of Underwater Imagery: Dataset and Benchmark Forth Author IROS Accepted 2020
